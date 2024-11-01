@@ -16,11 +16,11 @@ decremento -- diminui o valor da variavel ou em numero 1
 
 Console.WriteLine("Wello World!")
 double resultado = 12 + 8 + 12 / 3; 
-Console.WriteLine("resultado");
+Console.WriteLine(resultado1);
 
 double resultado = (12 + 8 + 12) / 3; 
-Console.WriteLine("resultado");
+Console.WriteLine(resultado2);
 
 double resultado = (2 + 8) * 2 / 4; 
-Console.WriteLine("resultado");
+Console.WriteLine(resultado3);
 
