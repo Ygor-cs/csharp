@@ -81,3 +81,5 @@ bool b5 = false;
 bool c1 = false; 
 bool resultado4 = !a5 || b5 && c1;
 Console.WriteLine(resultado4);
+
+
