@@ -35,6 +35,7 @@ else
 }
 */
 
+/*
 Console.WriteLine("Digite uma vogal");
 string? letra = Console.ReadLine();
 if (letra == "a" || letra == "A")
@@ -61,3 +62,49 @@ else
 {
     Console.WriteLine($"A letra {letra} não é uma vogal");
 }
+*/
+
+/* Estrutura Condicional Switch Case 
+É usado quando há várias possibilidades de valores 
+
+string dia = "Sábado";
+
+switch (dia)
+{
+    case "Sábado":
+        Console.WriteLine("Sábadoooo galera!");
+        break;
+    case "Domingo":
+        Console.WriteLine("Domingão, hoje é dia do tricolor!");
+        break;
+    default:
+        Console.WriteLine("Hoje é dia de semana, para de preguiça, levanta e vai trabalhar!");
+        break;
+}
+*/
+/*
+Console.WriteLine("Digite uma vogal:");
+string? letra = Console.ReadLine();
+string letraMinuscula = letra.ToLower();
+//string letraMaiscula = letra.ToUpper();
+switch (letraMinuscula) 
+{
+    case "a":
+    case "e":
+    case "i":
+    case "o":
+    case "u":
+        Console.WriteLine($"A letra '{letraMinuscula}' é uma vogal.");
+        break;
+    default:
+        Console.WriteLine($"A letra '{letraMinuscula}' não é uma vogal.");
+        break;
+}
+*/
+/* Operador Ternário 
+é uma fora concisa de escrever uma estrutura condicioanl if-else em uma única linha 
+*/
+int idade = 18;
+string mensagem = idade >= 18 ? "Maior de idade" : "Menor de idade";
+Console.WriteLine(mensagem);
+
