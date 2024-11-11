@@ -9,7 +9,7 @@ subtrção -
 multiplicação *
 divisão /
 
-mod % busca na dvisão o seu resto!
+mod % busca na divisão o seu resto!
 exponenciação ** eleva um valor à potencia de outro 
 incremento ++ aumenta o valor da variavel ou numero em 1 
 decremento -- diminui o valor da variavel ou em numero 1 
