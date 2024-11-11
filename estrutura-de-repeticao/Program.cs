@@ -6,6 +6,7 @@ Do While
 For
 Foreach
 */
+/*
 Random numeroAleatorio = new Random();
 int numero = numeroAleatorio.Next(1, 101);
 int contador = 0;
@@ -17,3 +18,11 @@ while ( contador <= numero )
     contador ++;
 }
 Console.WriteLine($"Contador atingiu o número alvo: {contador}");
+*/
+//Esrtrutura de repetição Do While
+int numero = 0;
+do
+{
+    Console.WriteLine($"Número: {numero}");
+    numero++;
+} while (numero < 10);
