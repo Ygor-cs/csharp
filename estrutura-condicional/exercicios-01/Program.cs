@@ -27,6 +27,7 @@ bool possuiAutorizacaoResponsavel = true;
 string resultado = ehMaiorIdade || possuiAutorizacaoResponsavel ? "Entrada liberada" : "Entrada nao liberada";
 Console.WriteLine(resultado);
 */
+/*
 bool possuiPresencaMinima = true;
 bool possuiMediaIgualOuMaiorQue7 = true;
 string resultado = possuiPresencaMinima && possuiMediaIgualOuMaiorQue7 ? "Aprovado" : "Reprovado";
@@ -49,7 +50,7 @@ bool choveu = true;
 bool estaTarde = true;
 string resultado = !choveu && !estaTarde ? "Vou pedalar" : "Vou pedalar outro dia";
 Console.WriteLine(resultado);
-
+*/
 // Resolucao do professor
 bool choveu = true;
 bool estaTarde = false;
@@ -61,3 +62,5 @@ else
 {
     Console.WriteLine("Vou pedalar outro dia.");
 }
+
+
