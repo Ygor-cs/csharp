@@ -90,8 +90,8 @@ foreach (string nome in nomes)
 // }
 // Console.WriteLine(vogal);
         
-// .reverse e .toarray 
-//4
+// //.reverse e .toarray 
+// //4
 // Console.WriteLine("Digete uma palavra ou uma frase:");
 // string? entrada = Console.ReadLine().ToLower();
 // string reverso = new string(entrada.reverse().ToArray());
@@ -113,7 +113,7 @@ Console.WriteLine("Tentativa de acertar o número entre 1 e 100:");
 while (!acertou)
 {
   Console.WriteLine("Digite seu palpite: ");
-  paplpite = int.Parse(Console.ReadLine());
+  palpite = int.Parse(Console.ReadLine());
 
   if (palpite < numeroAleatorio)
   {
