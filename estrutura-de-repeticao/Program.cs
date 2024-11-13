@@ -58,14 +58,15 @@ foreach (string nome in nomes)
    Crie um algoritmo onde o computador escolhe um número aleatório entre 1 e 100, e o usuário deve advinhar. Após cada tentativa, o programa indica se o número é maior ou menor
 */
 // //1
-// for(int i = 1; 1 < 100; i++)
+// int soma = 0;
+// for(int i = 1; i <= 100; i++)
 // {
 //     if (i % 2 == 0)
 //     {
-//         Console.WriteLine($"Valor de i: {i}");
-
+//         soma = soma +i;
 //     }
 // }
+// Console.WriteLine($"Valor é: {soma}."); 
 
 // //2
 // int numero = 10;
@@ -74,16 +75,60 @@ foreach (string nome in nomes)
 //     Console.WriteLine($"Número: {numero}");
 //     numero--;
 // } while (numero >= 1);
+// Console.WriteLine("Decolar!");
 
-//3
-Console.WriteLine("Digite uma palavra:");
-string? palavra = Console.ReadLine();
-int contvogais = 0;
+// //3
+// Console.WriteLine("Digite uma palavra:");
+// string? palavra = Console.ReadLine().ToLower(); //Colocar mais uma palavra
+// int vogal = 0;
+// foreach (char letra in palavra)
+// {
+//   if ("aeiou".Contains(letra))
+//   {
+//     vogal++;
+//   }
+// }
+// Console.WriteLine(vogal);
+        
+// .reverse e .toarray 
+//4
+// Console.WriteLine("Digete uma palavra ou uma frase:");
+// string? entrada = Console.ReadLine().ToLower();
+// string reverso = new string(entrada.reverse().ToArray());
+// if(entrada == reverso)
+// {
+//   Console.WriteLine("É um palíndromo");
+// }
+// else 
+// {
+//   Console.WriteLine("Não é um palíndromo");
+// }
+//5
+Random random = new Random();
+int numeroAleatorio = random.Next(1, 101);
+int palpite;
+int contador = 0;
+bool acertou = false;
+Console.WriteLine("Tentativa de acertar o número entre 1 e 100:");
+while (!acertou)
+{
+  Console.WriteLine("Digite seu palpite: ");
+  paplpite = int.Parse(Console.ReadLine());
 
-        foreach (char ca in palavra)
-        {
-          if ("aeiou".Contains(ca)){
-            contvogais++;
-          }
-        }
-        Console.WriteLine(ca);
+  if (palpite < numeroAleatorio)
+  {
+    Console.WriteLine("O número é maior!");
+    contador++;
+  }
+  else if (palpite > numeroAleatorio)  
+  {
+    Console.WriteLine("O número é menor!");
+    contador++;
+  }
+  else 
+  {
+    contador++; 
+    Console.WriteLine($"Parabéns! Você adivinhou o número sorteado '{numeroAleatorio}' depois de {contador} tentativas.");
+    acertou = true;
+  }
+}  
