@@ -1,0 +1,14 @@
+C:\Users\SENAC\Documents\GitHub\csharp\exercicio-classe-veiculo\bin\Debug\net7.0\exercicio-classe-veiculo.exe
+C:\Users\SENAC\Documents\GitHub\csharp\exercicio-classe-veiculo\bin\Debug\net7.0\exercicio-classe-veiculo.deps.json
+C:\Users\SENAC\Documents\GitHub\csharp\exercicio-classe-veiculo\bin\Debug\net7.0\exercicio-classe-veiculo.runtimeconfig.json
+C:\Users\SENAC\Documents\GitHub\csharp\exercicio-classe-veiculo\bin\Debug\net7.0\exercicio-classe-veiculo.dll
+C:\Users\SENAC\Documents\GitHub\csharp\exercicio-classe-veiculo\bin\Debug\net7.0\exercicio-classe-veiculo.pdb
+C:\Users\SENAC\Documents\GitHub\csharp\exercicio-classe-veiculo\obj\Debug\net7.0\exercicio-classe-veiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAC\Documents\GitHub\csharp\exercicio-classe-veiculo\obj\Debug\net7.0\exercicio-classe-veiculo.AssemblyInfoInputs.cache
+C:\Users\SENAC\Documents\GitHub\csharp\exercicio-classe-veiculo\obj\Debug\net7.0\exercicio-classe-veiculo.AssemblyInfo.cs
+C:\Users\SENAC\Documents\GitHub\csharp\exercicio-classe-veiculo\obj\Debug\net7.0\exercicio-classe-veiculo.csproj.CoreCompileInputs.cache
+C:\Users\SENAC\Documents\GitHub\csharp\exercicio-classe-veiculo\obj\Debug\net7.0\exercicio-classe-veiculo.dll
+C:\Users\SENAC\Documents\GitHub\csharp\exercicio-classe-veiculo\obj\Debug\net7.0\refint\exercicio-classe-veiculo.dll
+C:\Users\SENAC\Documents\GitHub\csharp\exercicio-classe-veiculo\obj\Debug\net7.0\exercicio-classe-veiculo.pdb
+C:\Users\SENAC\Documents\GitHub\csharp\exercicio-classe-veiculo\obj\Debug\net7.0\exercicio-classe-veiculo.genruntimeconfig.cache
+C:\Users\SENAC\Documents\GitHub\csharp\exercicio-classe-veiculo\obj\Debug\net7.0\ref\exercicio-classe-veiculo.dll

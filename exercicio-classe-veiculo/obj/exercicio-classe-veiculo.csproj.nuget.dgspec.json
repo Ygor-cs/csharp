@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SENAC\\Documents\\GitHub\\csharp\\classes\\classes.csproj": {}
+    "C:\\Users\\SENAC\\Documents\\GitHub\\csharp\\exercicio-classe-veiculo\\exercicio-classe-veiculo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SENAC\\Documents\\GitHub\\csharp\\classes\\classes.csproj": {
+    "C:\\Users\\SENAC\\Documents\\GitHub\\csharp\\exercicio-classe-veiculo\\exercicio-classe-veiculo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENAC\\Documents\\GitHub\\csharp\\classes\\classes.csproj",
-        "projectName": "classes",
-        "projectPath": "C:\\Users\\SENAC\\Documents\\GitHub\\csharp\\classes\\classes.csproj",
+        "projectUniqueName": "C:\\Users\\SENAC\\Documents\\GitHub\\csharp\\exercicio-classe-veiculo\\exercicio-classe-veiculo.csproj",
+        "projectName": "exercicio-classe-veiculo",
+        "projectPath": "C:\\Users\\SENAC\\Documents\\GitHub\\csharp\\exercicio-classe-veiculo\\exercicio-classe-veiculo.csproj",
         "packagesPath": "C:\\Users\\SENAC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SENAC\\Documents\\GitHub\\csharp\\classes\\obj\\",
+        "outputPath": "C:\\Users\\SENAC\\Documents\\GitHub\\csharp\\exercicio-classe-veiculo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
